@@ -70,7 +70,13 @@ Ensure you have the following installed:
 **Response:**
 ```json
 {
-  "message": "User registered successfully"
+  "message": "Stephen2 you've been successfully registered",
+  "data": {
+    "name": "Stephen2",
+    "email": "sakintola3511@gmail.com",
+    "role": "Admin"
+  },
+  "status": true
 }
 ```
 
@@ -88,7 +94,14 @@ Ensure you have the following installed:
 **Response:**
 ```json
 {
-  "token": "your_jwt_token_here"
+  "message": "Stephen you've been successfully logged In",
+  "data": {
+    "name": "Stephen",
+    "email": "sakintola351@gmail.com",
+    "role": "Admin"
+  },
+  "token": "your_jwt_token_here",
+  "status": true
 }
 ```
 
