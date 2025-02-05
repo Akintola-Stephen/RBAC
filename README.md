@@ -70,7 +70,7 @@ Ensure you have the following installed:
 **Response:**
 ```json
 {
-  "message": "Stephen2 you've been successfully registered",
+  "message": "Stephen you've been successfully registered",
   "data": {
     "name": "Stephen2",
     "email": "sakintola3511@gmail.com",
